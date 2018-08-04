@@ -1,0 +1,11 @@
+[{
+ "modid": "mystcraftthingy",
+ "name": "Mystcraft Exacting Research",
+ "description": "This mod attempts to add two things to your mystcraft experince: symbols to let you more exactly specify the attributes of your age, and devices to allow you to get symbols via careful research, rather then by luck",
+ "version": "${version}",
+ "mcversion": "${mcversion}",
+ "authorList": ["theorbtwo"],
+ "credits": "xcompwiz for mystcraft, the folks of the mystcraft discord, castaway for her help",
+ "useDependencyInformation": true,
+ "dependencies": ["mystcraft"]
+}]
